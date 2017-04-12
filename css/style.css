@@ -122,6 +122,22 @@ img {
 		margin: 0 auto;
 	}
 
+	.name {
+		
+	float: left;
+	
+	}
+	
+	.main-nav {
+		
+		float: right;
+	}
+	
+	.main-nav li {
+		display: inline-block;
+		margin-left: 15px;
+		
+	}
 	/* ---- Float clearfix ---- */
 
 	.clearfix::after {
